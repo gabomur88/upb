@@ -2,7 +2,9 @@
 trabajo cadena de suministro evaluacion
 
 Gabriel Murillo
+
 Walter Pinto
+
 Jose Arnez
 
 
